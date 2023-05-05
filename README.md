@@ -16,14 +16,14 @@
 
   ![xlsilvaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xlsilvaaa&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
   
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=giselesilva080792@gmail.com"/></a>
+  <a href="" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link= Email pessoal"/></a>
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xlsilvaaa/" /></a>
+  <a href="https://www.linkedin.com/in/xlsilvaaa/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link= Gisele Silva"/></a>
 
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/xlsilvaaa/"/></a>
+  <a href="https://www.instagram.com/xlsilvaaa/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link= @xlsilvaaa"/></a>
 
 </div>
 
